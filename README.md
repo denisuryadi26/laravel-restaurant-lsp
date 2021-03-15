@@ -1,4 +1,4 @@
-# Laravel Restaurant
+# Laravel Restaurant - Laravel v.6
 
 Aplikasi restoran dibuat menggunakan Laravel dan VueJS (hasil pra LSP)
 
@@ -9,7 +9,7 @@ Use the package manager (composer) for installing
 ```bash
 git clone https://github.com/zuramai/laravel-restaurant-lsp.git
 cd laravel-restaurant-lsp
-composer install
+composer install / composer update
 npm install
 copy .env.example .env
 php artisan key:generate
